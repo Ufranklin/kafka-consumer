@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "x4QjpbyALqBg8osil/tbEGP0IhvMe76UOGd7iOeCi0sfvbtZ9znq2/1j1qK6HFdRn2lH+UnNMm1qRQDGiXAIiA==",
+  "success": true,
+  "projectFilePath": "/Users/fudeh/Desktop/Nibss/DotNet/KafkaConsumer/KafkaConsumer.csproj",
+  "expectedPackageFiles": [
+    "/Users/fudeh/.nuget/packages/confluent.kafka/1.9.0/confluent.kafka.1.9.0.nupkg.sha512",
+    "/Users/fudeh/.nuget/packages/librdkafka.redist/1.9.0/librdkafka.redist.1.9.0.nupkg.sha512",
+    "/Users/fudeh/.nuget/packages/system.memory/4.5.0/system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
